@@ -9,13 +9,13 @@
 <h1 align="center">Nginx Wildcard SSL</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/nginx-wildcard?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/infantsabin/nginx-wildcard?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/nginx-wildcard?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/infantsabin/nginx-wildcard?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/nginx-wildcard?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/infantsabin/nginx-wildcard?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/nginx-wildcard?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/infantsabin/nginx-wildcard?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/nginx-wildcard?color=56BEB8" /> -->
 
@@ -42,7 +42,7 @@
   <a href="#sparkles-certificate-generation">Certificate Generation</a> &#xa0; | &#xa0;
   <a href="#sparkles-sample-nginx-configuration">Sample Nginx configuration</a> &#xa0; | &#xa0;
   <a href="#sparkles-error">Error</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{Infantsabin}}" target="_blank">Author</a>
+  <a href="https://github.com/infantsabin" target="_blank">Author</a>
 </p>
 
 <br>
@@ -205,7 +205,7 @@ $ pip3 install --upgrade acme
 
 ```
 
-Made with :heart: by <a href="https://github.com/{{Infantsabin}}" target="_blank">Infant Sabin</a>
+Made with :heart: by <a href="https://github.com/infantsabin" target="_blank">Infant Sabin</a>
 
 &#xa0;
 
