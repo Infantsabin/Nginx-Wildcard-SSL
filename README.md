@@ -42,7 +42,7 @@
   <a href="#sparkles-certificate-generation">Certificate Generation</a> &#xa0; | &#xa0;
   <a href="#sparkles-sample-nginx-configuration">Sample Nginx configuration</a> &#xa0; | &#xa0;
   <a href="#sparkles-error">Error</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{infantsabin}}" target="_blank">Author</a>
+  <a href="https://github.com/{{Infantsabin}}" target="_blank">Author</a>
 </p>
 
 <br>
@@ -205,7 +205,7 @@ $ pip3 install --upgrade acme
 
 ```
 
-Made with :heart: by <a href="https://github.com/{{infantsabin}}" target="_blank">Infant Sabin</a>
+Made with :heart: by <a href="https://github.com/{{Infantsabin}}" target="_blank">Infant Sabin</a>
 
 &#xa0;
 
