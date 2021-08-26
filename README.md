@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src="./.github/app.gif" alt="Nginx Wildcard SSL" />
+  <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" alt="Nginx Wildcard SSL" />
 
   &#xa0;
 
